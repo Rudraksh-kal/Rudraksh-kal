@@ -48,7 +48,7 @@ An intelligent system combining **AI, Full-Stack Development, and Power BI dashb
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrakshkalia&show_icons=true&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudrakshkalia&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=rudrakshkalia&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshkalia&layout=compact&theme=radical&hide_border=true)  
 
 ---
