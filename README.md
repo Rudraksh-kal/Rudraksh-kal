@@ -47,17 +47,15 @@ An intelligent system combining **AI, Full-Stack Development, and Power BI dashb
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrakshkalia&show_icons=true&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=rudrakshkalia&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshkalia&layout=compact&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudraksh-kal&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rudraksh-kal&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh-kal&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-kalia-a977a3301/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/RudrakshKalia/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:rudrakshkalia0@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-kalia-a977a3301/)  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/RudrakshKalia/)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:rudrakshkalia0@gmail.com)  
 
 ---
 
