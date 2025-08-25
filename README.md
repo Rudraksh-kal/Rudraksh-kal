@@ -48,13 +48,12 @@ An intelligent system combining **AI, Full-Stack Development, and Power BI dashb
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudraksh-kal&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rudraksh-kal&theme=radical&hide_border=true)  
 
 ---
 
 ## 🏆 LeetCode Stats  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/RudrakshKalia?theme=radical&font=Roboto&ext=activity)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/RudrakshKalia?theme=radical&font=Roboto)  
 
 ---
 
