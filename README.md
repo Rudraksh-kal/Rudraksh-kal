@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Final-year CSE student at **Maharaja Surajmal Institute of Technology, India**  
-- 🌱 Currently sharpening skills in **DSA (LeetCode 130+), SQL, and System Design**  
+- 🌱 Currently sharpening skills in **DSA (LeetCode 150+), SQL, and System Design**  
 - 🔨 Building projects in **Full-Stack Development (React, Node.js, MongoDB, Stripe)**  
 - 🤖 Passionate about **AI/ML & Generative AI** (Sign Language Detection, AI Chatbots)  
 - 💼 Previously interned at **Lava International**, gaining real-world industry experience  
